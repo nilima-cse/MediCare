@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/Cholera.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/HepatitisA.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/MalariaActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/Polio.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/Rabics.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/Tetanusdiptheria.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/coders/epsilon/medicare/diseaseActivities/Typhoid.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cholera.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_polio.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabics.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tetanusdiptheria.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_typhoid.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/hepatitis_a.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/malaria.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
